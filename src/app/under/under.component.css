@@ -1,0 +1,39 @@
+.about{
+    position: relative;
+    display: flex;
+}
+.about1{
+    background: rgb(146, 163, 163);
+}
+.middle{
+    text-align: center;
+    text-align: initial;
+    text-decoration: lavenderblush;
+    text-emphasis-color: red;
+    color: maroon;
+    padding: 70px 0;
+    font-family: verdana;
+    
+   
+}
+.first-txt {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    color: lightseagreen;
+}
+.about2{
+    float:right;
+}
+.space{
+    
+    width:auto; margin:0 auto;
+}
+.fillpage{
+    text-align: center;
+    padding: 70px 0;
+    font-family: verdana;
+    top: 17px;
+    left: 50px;
+   
+}
